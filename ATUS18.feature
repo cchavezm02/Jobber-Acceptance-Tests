@@ -7,3 +7,8 @@ Then podrá crear un caso para que los postulantes puedan resolverlo
 Given El empresario necesita incluir casos en sus publicaciones.
 When Se dirige al apartado de crear la oferta y rellenar el formulario, le hace click en añadir caso y la informacion es ambigua.
 Then Emergerá un mensaje en la pantalla pidiendo que se vuelva a ingresar el caso.
+
+INPUT:
+preguntas para el caso
+:OUTPUT
+mensaje
