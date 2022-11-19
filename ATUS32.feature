@@ -7,3 +7,9 @@ Then podrá seleccionar entre varias secciones con nombres la función que el qu
 Given Como usuario deseo tener secciones/ apartados en los cuales se organicen diferentes funciones.
 When haga click en alguna de las secciones y no tenga internet o  haya un fallo general por parte interna
 Then aparecerá un mensaje de error.
+
+
+INPUT:
+Click
+Output:
+Mensaje
