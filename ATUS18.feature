@@ -10,5 +10,5 @@ Then Emergerá un mensaje en la pantalla pidiendo que se vuelva a ingresar el ca
 
 INPUT:
 preguntas para el caso
-:OUTPUT
+OUTPUT:
 mensaje
