@@ -5,13 +5,13 @@ Given el postulante desea ver si hay un puesto en cierta empresa
 When va al apartado de “buscar”, “feed” o notificaciones 
 Then podrá ver los ámbitos que están buscando las empresas.
 
-Given: El postulante necesita saber si hay pustos disponibles en ciertas empresas.
-When: Va al apartado de “buscar” o en las notificaciones si se suscribe.
-Then: Apare un mensaje que no le deja suscribirse y si desea enviar un mensaje a “Atención al cliente”.
+Given El postulante necesita saber si hay pustos disponibles en ciertas empresas.
+When Va al apartado de “buscar” o en las notificaciones si se suscribe.
+Then Apare un mensaje que no le deja suscribirse y si desea enviar un mensaje a “Atención al cliente”.
 
 
-INPUT:
+INPUT
 nombre de empresa
 click
-OUTPUT:
+OUTPUT
 mensaje
