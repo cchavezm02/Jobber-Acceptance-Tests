@@ -1,6 +1,6 @@
 Feature: Editar la oferta
 Escenario: El empresario desea filtrar a los postulantes por la información dada por los postulantes.  
-Given: El empresario desea encontrar al trabajador mediante métodos de filtración 
+Given El empresario desea encontrar al trabajador mediante métodos de filtración 
 When Va al apartado de “postulantes” y hace click en “filtrar” y después selecciona por qué quiere filtrarlo 
 Then Podrá filtrar a los postulantes con lo que desea (lugar, universidad egresada, colegio egresado, etc.) 
 
