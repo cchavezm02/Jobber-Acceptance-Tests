@@ -11,7 +11,5 @@ Then aparecerá un codigo de error y se le pedirá al usuario intentar de nuevo
 
 
 INPUT:
-Tipo de dispositivo (ingresado en la seccion de consumo)
-kWh consumido por dispositivo
 OUTPUT:
-Video recomendado
+Noticia recomendadada
