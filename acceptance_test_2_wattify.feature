@@ -7,7 +7,7 @@ Then Podrá seleccionar una noticia sobre el ahorro de energia seleccionada por 
 
 Given El usuario desea ver videos instructivos sobre el ahorro de energia.
 When se dezplaza a la seccion de "Tips" y las noticias no cargan correctamente 
-Then aparecerá un codigo de error y se le pedirá al usuario intentar de nuevo
+Then aparecerá un codigo de error y se le pedirá al usuario intentar de nuevo más tarde
 
 
 INPUT:
